@@ -1,0 +1,380 @@
+[14:43:52] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[14:43:58] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[15:24:14] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[15:24:23] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[15:36:57] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[15:37:02] Data breach reported by major social media platform.
+Location: 34.0522, -118.2437
+Severity: Medium
+
+[15:37:04] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[15:42:04] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[15:44:04] Data breach reported by major social media platform.
+Location: 34.0522, -118.2437
+Severity: Medium
+
+[15:44:07] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[15:44:09] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[15:44:10] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[15:44:11] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[15:44:12] Massive DDoS attack on DNS infrastructure detected.
+Location: 35.6895, 139.6917
+Severity: High
+
+[15:44:13] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[15:44:14] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[15:44:18] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[15:44:25] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[16:09:23] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[16:09:28] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[16:09:40] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[16:28:53] Massive DDoS attack on DNS infrastructure detected.
+Location: 35.6895, 139.6917
+Severity: High
+
+[16:28:58] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[16:29:05] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[01:07:44] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:07:53] Massive DDoS attack on DNS infrastructure detected.
+Location: 35.6895, 139.6917
+Severity: High
+
+[01:07:54] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:07:59] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[01:08:05] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:08:11] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:08:38] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:13:51] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[01:14:00] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[01:14:02] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:14:14] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[01:15:08] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[01:16:56] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:17:09] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[01:17:10] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[01:18:13] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[01:22:31] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:22:37] Data breach reported by major social media platform.
+Location: 34.0522, -118.2437
+Severity: Medium
+
+[01:22:46] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:22:49] Data breach reported by major social media platform.
+Location: 34.0522, -118.2437
+Severity: Medium
+
+[01:23:06] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[01:23:08] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:25:17] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:25:23] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:25:24] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:25:30] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[01:25:33] Data breach reported by major social media platform.
+Location: 34.0522, -118.2437
+Severity: Medium
+
+[01:25:40] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:25:55] Massive DDoS attack on DNS infrastructure detected.
+Location: 35.6895, 139.6917
+Severity: High
+
+[01:25:57] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:26:22] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[01:26:32] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[01:26:39] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:32:28] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:32:36] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[01:32:39] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[01:32:52] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[01:32:59] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[01:40:19] Zero-day vulnerability discovered in Chrome.
+Location: 37.7749, -122.4194
+Severity: High
+
+[01:40:32] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[01:40:43] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[01:41:08] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[01:49:00] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[16:23:09] New phishing campaign targeting financial institutions.
+Location: 40.7128, -74.006
+Severity: Low
+
+[16:27:40] Massive DDoS attack on DNS infrastructure detected.
+Location: 35.6895, 139.6917
+Severity: High
+
+[16:41:43] 🟠 0Day: Kernel escalation vulnerability detected in Linux 6.1
+Location: 55.7558, 37.6173
+Severity: High
+
+[16:41:55] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[16:43:50] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[16:54:12] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[17:09:01] 🔴 0Day: Remote Code Execution in Apache HTTP Server
+Location: 38.9072, -77.0369
+Severity: Critical
+
+[17:27:22] 🔴 0Day: Zoom zero-click exploit actively used in the wild
+Location: 34.6937, 135.5023
+Severity: Critical
+
+[17:31:34] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[17:31:39] Critical vulnerability in OpenSSL library.
+Location: 51.5074, -0.1278
+Severity: High
+
+[17:31:43] Ransomware outbreak affecting healthcare systems in Europe.
+Location: 52.52, 13.405
+Severity: Medium
+
+[18:54:53] Low Threat Detected
+Location: 15.758717089356267, -42.77491380930826
+Severity: Low
+
+[18:57:41] Critical Threat Detected
+Location: 72.27806428474992, -26.095969446094983
+Severity: Critical
+
+[19:03:15] Medium Threat Detected
+Location: 40.44121237355651, 76.01476114949355
+Severity: Medium
+
+[19:11:09] Medium Threat Detected
+Location: -89.90950128997456, -171.4528856638917
+Severity: Medium
+
+[19:24:19] Medium Threat Detected
+Location: 36.70225497045642, -94.60266339000414
+Severity: Medium
+
+[19:50:03] Critical Threat Detected
+Location: -57.07882853253053, -174.00196729044612
+Severity: Critical
+
+[19:59:07] Critical Threat Detected
+Location: -28.942204338416865, -170.01834559459098
+Severity: Critical
+
+[20:01:15] Critical Threat Detected
+Location: 5.300009608365315, -120.23717002794537
+Severity: Critical
+
+[20:01:29] Medium Threat Detected
+Location: 61.7381346701448, 16.68401518812402
+Severity: Medium
+
+[20:08:27] High Threat Detected
+Location: 3.055279067691501, -116.77416150495444
+Severity: High
+
+[20:08:31] Low Threat Detected
+Location: -82.42722887283891, -175.26853192648144
+Severity: Low
+
+[20:14:55] Medium Threat Detected
+Location: -8.86190008266935, 20.93662078003993
+Severity: Medium
+
+[20:18:59] Low Threat Detected
+Location: 56.76136193730221, -82.41052006752628
+Severity: Low
+
+[20:19:02] Critical Threat Detected
+Location: 12.8872308540423, -63.307155599040556
+Severity: Critical
+
+[20:20:33] Critical Threat Detected
+Location: 55.41501170984452, -65.97663737242277
+Severity: Critical
+
+[20:20:33] Critical Threat Detected
+Location: -37.938973750052426, -176.27966343381945
+Severity: Critical
+
+[20:20:42] High Threat Detected
+Location: -33.49986934012392, 92.37082079881344
+Severity: High
+
