@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.mp3
+*.jfif
+*.png
+alert_log.txt
+.vscode/
